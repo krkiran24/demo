@@ -1,3 +1,3 @@
 Demo
 
-Experimenting and trying to get familiar with using git and github.
+Experimenting with using git and github.
